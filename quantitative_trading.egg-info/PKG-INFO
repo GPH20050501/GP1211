@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: quantitative-trading
+Version: 0.1
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pytest
+Requires-Dist: pytest-cov
+Requires-Dist: pytz
+Dynamic: requires-dist

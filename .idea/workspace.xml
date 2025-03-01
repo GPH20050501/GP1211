@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="490dc5ce-0a32-44d3-ba05-8692d13af69b" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cursorrules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/tests.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/tests.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pychon 2.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPEC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtest/backtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtest/backtest_engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtest/capital_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtest/performance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtest/risk_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtest_plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ci_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/017c4f66b358706c5eef72838925f5b9.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/2330.TW_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/2330.TW_1d_2020-01-01_2025-01-31.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/2330.TW_1d_2022-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/2330.TW_1d_2022-01-01_2025-01-02.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/2330.TW_1d_2022-01-01_2025-01-13.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/2330.TW_1d_2022-01-01_2025-01-25.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/2330.TW_1d_2022-01-01_2025-01-27.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/2330.TW_1d_2022-01-01_2025-01-31.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/2330.TW_1d_2022-01-01_2025-02-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/2614.TW_1d_2022-01-01_2025-01-02.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/3df7ceb369f79aa7b79d1ba98f4e8eb5.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/6b9e87dc5f17cc2486e7b56c5a322046.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/8600cafb383a0f1ce08ac2f3fcc5c2f6.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/969ba4adc7cd6617f5230b7ad99d8408.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/AAPL_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/AAPL_1d_2022-01-01_2022-01-31.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/AAPL_1d_2022-01-01_2023-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/AAPL_1d_2022-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/AAPL_1d_2022-01-01_2025-01-02.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/AAPL_1d_2022-01-01_2025-01-27.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/AAPL_1d_2022-01-01_2025-01-31.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/AAPL_1d_2022-01-01_2025-02-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/AAPL_1d_2023-01-01_2024-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/AAPL_1d_2024-01-01_2024-01-10.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/AAPL_1d_2024-01-01_2024-02-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/AMZN_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/AUDUSD=X_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/BNB-USD_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/BTC-USD_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/BTC-USD_1d_2024-01-01_2024-02-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/BTC_1d_2022-01-01_2025-01-02.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/BZ=F_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/CL=F_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/CL_1d_2022-01-01_2025-01-02.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/ES_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/ES_1d_2022-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/ES_1d_2022-01-01_2025-01-02.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/ES_1d_2022-01-01_2025-02-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/ETH-USD_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/EURUSD=X_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/GBPUSD=X_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/GC=F_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/GOOGL_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/KC=F_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/MSFT_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/NG=F_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/PA=F_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/PL=F_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/RB=F_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/SI=F_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/USDJPY=X_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/XRP-USD_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/ZC=F_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/ZS=F_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/ZW=F_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/^DJI_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/^FTSE_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/^FVX_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/^GSPC_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/^IRX_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/^IXIC_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/^TNX_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/^TYX_1d_2020-01-01_2025-01-01.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/b8adb6cdad3c2c16a9a05e7bb9b83c58.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/c322c14c01ba28514d7126b04b91fdf5.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/cache_index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/e040812c144a7150354f60c6f19c674c.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/ec4ccac5da0fc6b4fc1a8eaf89da98fb.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/eddb9858eed75834a6bab331829c0853.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cache/f226338b08951b564d6f285658385967.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/market_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/run_backtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iddiiid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install_dependencies.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jjjj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optimization/optimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppppp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quantitative_trading.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quantitative_trading.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quantitative_trading.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quantitative_trading.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quantitative_trading.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reporting/report_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/backtest_report_20250204_180227.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/risk/risk_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_tests.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_tests_pycharm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/run_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategies/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategies/base_strategy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategies/ma_cross_strategy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_backtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_backtest_integration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_capital_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_data_cleaning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_data_cleaning_extended.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_data_flow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_data_layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_data_layer_extended.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_data_validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_data_validation_extended.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_edge_cases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_integration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_performance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_reporting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_risk_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_strategy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_system_integrity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/charts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/data/cache/6b9e87dc5f17cc2486e7b56c5a322046.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/data/cache/cache_index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/monitoring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/performance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/performance_metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization/plotter.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2thAlkcVJthUOwJ1QF6UUpPediL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.language.and.region"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="490dc5ce-0a32-44d3-ba05-8692d13af69b" name="更改" comment="" />
+      <created>1740794086106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740794086106</updated>
+    </task>
+    <servers />
+  </component>
+</project>

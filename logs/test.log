@@ -1,0 +1,10 @@
+2025-02-05 17:03:46,974 - INFO - 開始執行測試...
+2025-02-05 17:03:50,343 - ERROR - 缺少必要的套件: pytest-cov, pytest-benchmark
+2025-02-05 17:03:50,344 - INFO - 請執行: pip install -r requirements.txt
+2025-02-05 17:12:21,698 - INFO - 開始執行測試...
+2025-02-05 17:12:22,480 - ERROR - 缺少必要的套件: python-dotenv
+2025-02-05 17:12:22,481 - ERROR - 版本不匹配: pytest (當前: 8.3.4, 需要: 8.0.0), pytest-cov (當前: 6.0.0, 需要: 4.1.0), pytest-benchmark (當前: 5.1.0, 需要: 4.0.0), pandas (當前: 2.2.3, 需要: 2.2.0), numpy (當前: 2.2.2, 需要: 1.24.0), plotly (當前: 5.24.1, 需要: 5.18.0), psutil (當前: 6.1.1, 需要: 5.9.0)
+2025-02-05 17:12:22,481 - INFO - 請執行以下命令更新依賴:
+2025-02-05 17:12:22,482 - INFO - pip install -r requirements.txt --no-cache-dir --force-reinstall
+2025-02-05 17:45:42,946 - INFO - 開始執行測試...
+2025-02-05 17:45:43,754 - ERROR - 缺少必要的套件: python-dotenv

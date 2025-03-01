@@ -1,0 +1,25 @@
+# Core Dependencies
+setuptools>=68.0.0
+wheel>=0.40.0
+
+# System
+psutil>=5.9.0
+python-dotenv>=1.0.0
+
+# Data Processing & Finance
+numpy>=1.24.0
+pandas>=2.2.0
+yfinance>=0.2.36
+ta>=0.10.0
+
+# Testing
+pytest>=8.0.0
+pytest-cov>=4.1.0
+pytest-benchmark>=4.0.0
+coverage>=7.4.0
+
+# Visualization
+plotly>=5.18.0
+
+# Additional Dependencies
+py-cpuinfo>=9.0.0 
